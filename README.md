@@ -26,13 +26,13 @@ Note: You can customize `lua/lsp.lua` file according to which programming langua
 
 ## Plugins
 
-- **wbthomason/packer.nvim**: [Github](https://github.com/wbthomason/packer.nvim)             _- plugin manager_
-- **morhetz/gruvbox**: [Github](https://github.com/morhetz/gruvbox)                           _- theme_
-- **kyazdani42/nvim-tree**: [Github](https://github.com/nvim-tree/nvim-tree.lua)              _- file explorer tree_
-- **kyazdani42/nvim-web-devicons**: [Github](https://github.com/nvim-tree/nvim-web-devicons)  _- file type icons_
-- **neovim/nvim-lspconfig**: [Github](https://github.com/neovim/nvim-lspconfig)               _- lsp configuration_
-- **windwp/autopairs**: [Github](https://github.com/windwp/nvim-autopairs)                    _- auto-closing(bracket and parentheses)_
-- **nvim-treesitter**: [Github](https://github.com/nvim-treesitter/nvim-treesitter)           _- syntax highlighter_
-- **nvim-lualine**: [Github](https://github.com/nvim-lualine/lualine.nvim)                    _- status bar_
+- **wbthomason/packer.nvim**: [GitHub](https://github.com/wbthomason/packer.nvim)             _- plugin manager_
+- **morhetz/gruvbox**: [GitHub](https://github.com/morhetz/gruvbox)                           _- theme_
+- **kyazdani42/nvim-tree**: [GitHub](https://github.com/nvim-tree/nvim-tree.lua)              _- file explorer tree_
+- **kyazdani42/nvim-web-devicons**: [GitHub](https://github.com/nvim-tree/nvim-web-devicons)  _- file type icons_
+- **neovim/nvim-lspconfig**: [GitHub](https://github.com/neovim/nvim-lspconfig)               _- lsp configuration_
+- **windwp/autopairs**: [GitHub](https://github.com/windwp/nvim-autopairs)                    _- auto-closing(bracket and parentheses)_
+- **nvim-treesitter**: [GitHub](https://github.com/nvim-treesitter/nvim-treesitter)           _- syntax highlighter_
+- **nvim-lualine**: [GitHub](https://github.com/nvim-lualine/lualine.nvim)                    _- status bar_
 
 For the complete list of features and functionalities of the plugins, please visit their GitHub repositories.
