@@ -6,7 +6,7 @@ This repository contains a customized configuration for Neovim. Includes various
 
 - Fast and efficient development environment
 - Integration of essential plugins
-- Syntax highlighting and automatic closing features
+- Syntax highlighting and automatic closing
 
 ## Installation
 
