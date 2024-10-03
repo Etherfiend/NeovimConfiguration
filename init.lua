@@ -1,0 +1,8 @@
+  require('plugins')
+  require('keymaps')
+  require('settings')
+  require('lualine_setup')
+  require('nvimtree_setup')
+  require('autopairs_setup')
+  require('treesitter_setup')
+  require('lsp')
