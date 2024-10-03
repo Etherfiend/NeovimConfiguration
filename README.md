@@ -6,7 +6,7 @@ This repository contains a customized configuration for Neovim. It is written in
 
 - Fast and efficient development environment
 - Integration of essential plugins
-- Syntax highlighting and automatic closing/completion features
+- Syntax highlighting and automatic closing features
 
 ## Installation
 
@@ -28,7 +28,6 @@ This repository contains a customized configuration for Neovim. It is written in
 - **morhetz/gruvbox**: [Github](https://github.com/morhetz/gruvbox)                           _- theme_
 - **kyazdani42/nvim-tree**: [Github](https://github.com/nvim-tree/nvim-tree.lua)              _- file explorer tree_
 - **kyazdani42/nvim-web-devicons**: [Github](https://github.com/nvim-tree/nvim-web-devicons)  _- file type icons_
-- **hrsh7th/nvim-cmp**: [Github](https://github.com/hrsh7th/nvim-cmp)                         _- auto-completion_
 - **neovim/nvim-lspconfig**: [Github](https://github.com/neovim/nvim-lspconfig)               _- lsp configuration_
 - **windwp/autopairs**: [Github](https://github.com/windwp/nvim-autopairs)                    _- auto-closing(bracket and parentheses)_
 - **nvim-treesitter**: [Github](https://github.com/nvim-treesitter/nvim-treesitter)           _- syntax highlighter_
