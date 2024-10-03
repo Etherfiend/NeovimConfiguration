@@ -35,4 +35,4 @@ Note: You can customize `lua/lsp.lua` file according to which programming langua
 - **nvim-treesitter**: [Github](https://github.com/nvim-treesitter/nvim-treesitter)           _- syntax highlighter_
 - **nvim-lualine**: [Github](https://github.com/nvim-lualine/lualine.nvim)                    _- status bar_
 
-For list of plugins functionalities, check the respective documentations.
+For the complete list of features and functionalities of the plugins, please visit their GitHub repositories.
