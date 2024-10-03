@@ -1,4 +1,4 @@
--- NVimTree setup
+-- nvim-tree setup
 require("nvim-tree").setup({
   view = {
     width = 20,                   		-- Set the width of the tree
