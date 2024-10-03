@@ -1,6 +1,6 @@
 # Neovim Configuration
 
-This repository contains a customized configuration for Neovim. It is written in Lua and includes various settings and plugins to enhance the Neovim experience.
+This repository contains a customized configuration for Neovim. Includes various settings and plugins to enhance the Neovim experience.
 
 ## Features
 
