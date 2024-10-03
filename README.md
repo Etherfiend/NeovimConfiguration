@@ -19,8 +19,9 @@ This repository contains a customized configuration for Neovim. It is written in
    cp -r NeovimConfiguration/* ~/.config/nvim/
    
 4. Install [packer.nvim](https://github.com/wbthomason/packer.nvim) for plugin management
-5. Download a NerdFont for proper display of icons on tree and status bar
-6. Open Neovim and run `:PackerSync`
+5. Download a [NerdFont](https://www.nerdfonts.com/) for proper display of icons on tree and status bar
+6. You can customize `lua/lsp.lua` file according to which programming language you will use. Default setup includes only 'clangd' for c/c++.
+7. Open Neovim and run `:PackerSync`
 
 ## Plugins
 
@@ -33,4 +34,4 @@ This repository contains a customized configuration for Neovim. It is written in
 - **nvim-treesitter**: [Github](https://github.com/nvim-treesitter/nvim-treesitter)           _- syntax highlighter_
 - **nvim-lualine**: [Github](https://github.com/nvim-lualine/lualine.nvim)                    _- status bar_
 
-For a complete list of plugins and their functionalities, check the respective documentation.
+For list of plugins functionalities, check the respective documentations.
