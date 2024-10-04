@@ -14,7 +14,7 @@ This repository contains a customized configuration for Neovim. Includes various
    ```bash
    git clone https://github.com/Etherfiend/NeovimConfiguration
    
-2. Copy and paste it into your config file:
+2. Copy and paste it into `.config/nvim` directory:
    ```bash
    cp -r NeovimConfiguration/* ~/.config/nvim/
    
