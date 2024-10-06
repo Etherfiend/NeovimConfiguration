@@ -36,9 +36,6 @@ require("nvim-tree").setup({
   },
 })
 
--- Keybinding for nvim-tree (CTRL + n)
-vim.api.nvim_set_keymap('n', '<C-n>', ':NvimTreeToggle<CR>', { noremap = true, silent = true })
-
 -- Open nvim-tree automatically when entering nvim if no file is specified
 vim.api.nvim_create_autocmd({ "VimEnter" }, {
   callback = function()
