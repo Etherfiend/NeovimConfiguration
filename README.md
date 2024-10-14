@@ -31,7 +31,7 @@ Note: You can customize `lua/lsp.lua` file according to which programming langua
 - **kyazdani42/nvim-tree**: [GitHub](https://github.com/nvim-tree/nvim-tree.lua)              _- file explorer tree_
 - **kyazdani42/nvim-web-devicons**: [GitHub](https://github.com/nvim-tree/nvim-web-devicons)  _- file type icons_
 - **neovim/nvim-lspconfig**: [GitHub](https://github.com/neovim/nvim-lspconfig)               _- lsp configuration_
-- **windwp/autopairs**: [GitHub](https://github.com/windwp/nvim-autopairs)                    _- auto-closing(bracket and parentheses)_
+- **windwp/autopairs**: [GitHub](https://github.com/windwp/nvim-autopairs)                    _- automatic closing(bracket and parentheses)_
 - **nvim-treesitter**: [GitHub](https://github.com/nvim-treesitter/nvim-treesitter)           _- syntax highlighter_
 - **nvim-lualine**: [GitHub](https://github.com/nvim-lualine/lualine.nvim)                    _- status bar_
 
